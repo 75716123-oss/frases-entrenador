@@ -1,0 +1,10 @@
+FRASES ENTRENADOR v0.3 - proyecto para generar el .apk
+
+1) Crea una cuenta gratis en github.com (si no tienes).
+2) Crea un repositorio nuevo (boton "New"), nombre: frases-entrenador.
+3) Sube TODO el contenido de esta carpeta (incluida la carpeta oculta .github) con "Add file > Upload files". Hazlo desde una computadora.
+4) Entra a la pestana "Actions" > "Build APK" > "Run workflow".
+5) Espera 5 a 10 minutos. Abre la ejecucion terminada y descarga "frases-entrenador-v0.3-apk" (abajo, en Artifacts). Es un .zip que contiene app-debug.apk.
+6) Pasa el .apk al celular, abrelo y permite "instalar apps de origen desconocido" cuando Android lo pida.
+
+Para la v0.4: reemplaza www/index.html por el nuevo y vuelve a correr "Run workflow".
